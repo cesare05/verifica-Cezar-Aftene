@@ -1,3 +1,3 @@
 # verifica-Cezar-Aftene
 
-sto svolgendo una verifica
+sto svolgendo la verifica
